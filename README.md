@@ -1,16 +1,23 @@
-# pet
+# Проект "Todo List" на Flutter
 
-A new Flutter project.
+Этот проект представляет собой простое приложение для создания и управления списком задач (Todo
+List) с использованием Flutter и пакета Provider для управления состоянием.
 
-## Getting Started
+## Описание проекта
 
-This project is a starting point for a Flutter application.
+Проект предоставляет следующий функционал:
 
-A few resources to get you started if this is your first Flutter project:
+- Добавление новых задач.
+- Отметка задач как выполненных с помощью чекбоксов.
+- Удаление отмеченных выполненных задач.
+- Удаление задач по долгому нажатию.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Запуск проекта
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Для запуска проекта убедитесь, что вы установили Flutter и настроили свою разработочную среду.
+
+1. Склонируйте репозиторий:
+
+   ```bash
+   git clone https://github.com/ваш-проект/todo_list.git
+   cd todo_list
